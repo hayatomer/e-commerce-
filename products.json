@@ -2,23 +2,44 @@
   "products": [
     {
       "id": 1,
-      "name": "Product 1",
-      "description": "Description for product 1",
-      "price": 10.99,
-      "image": "https://placehold.co/100"
+      "name": "Choclate pudding",
+      "description": "made with Switzerland coco beans, Brazil suger cane and cornstarch from the hemila mountains",
+      "price": 100.99,
+      "image": ""
     },
     {
       "id": 2,
-      "name": "Product 2",
-      "description": "Description for product 2",
-      "price": 12.99,
+      "name": "Banananana pudding",
+      "description": "made with ecuador bananananas, vanilla wafer cookies made by gourmet pâtissier and  and sweetened condensed milk from a camal",
+      "price": 120.99,
       "image": "https://placehold.co/100"
     },
     {
       "id": 3,
-      "name": "Product 3",
-      "description": "Description for product 3",
-      "price": 15.99,
+      "name": "Rice pudding",
+      "description": "rice and stuff",
+      "price": 150.99,
+      "image": "https://placehold.co/100"
+    },
+    {
+      "id": 4,
+      "name": "Creme Brulee",
+      "description": "cream from goat then brulee it",
+      "price": 310.99,
+      "image": "https://placehold.co/100"
+    },
+    {
+      "id": 5,
+      "name": "Flan",
+      "description": "the sugar is first melted for 24 hours to create a caramel topping, then the egg mixture with milk and vanilla is poured over it and baked for 6 days on 5. ",
+      "price": 103.99,
+      "image": "https://placehold.co/100"
+    },
+    {
+      "id": 6,
+      "name": "Chia pudding",
+      "description": " chia seeds and some type of liquid",
+      "price": 157.99,
       "image": "https://placehold.co/100"
     }
   ]
